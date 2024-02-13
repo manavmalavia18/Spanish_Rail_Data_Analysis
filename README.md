@@ -18,7 +18,7 @@ The contents of the notebook will be structured as follows:
 2. Data loading and cleaning
 3. Exploratory data analysis
 4. Data visualization
-5. Predictive modeling (if applicable)
+5. Predictive modeling 
 6. Conclusions and recommendations
 
 ## Let's get started!
